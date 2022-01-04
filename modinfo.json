@@ -5,9 +5,9 @@
   "context": "client",
   "date": "2020/06/19",
   "description": "Buttons to connect to local or private servers.",
-  "display_name": "Connect Buttons",
+  "display_name": "Connect Buttons Ziad",
   "forum": "https://forums.uberent.com/threads/rel-connect-buttons.65769/",
-  "identifier": "com.wondible.pa.connect_buttons",
+  "identifier": "com.wondible.pa.connect_buttons_ziad",
   "priority": 100,
   "scenes": {
     "start": [
