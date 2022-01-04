@@ -30,8 +30,8 @@
     var params = {
       content: api.content.activeContent(),
     };
-
-    window.location.href = 'coui://ui/main/game/connect_to_game/connect_to_game.html?' + $.param(params);
+       window.location.href = 'coui://ui/main/game/connect_to_game/connect_to_game.html?content=PAExpansion1&local=false';
+//     window.location.href = 'coui://ui/main/game/connect_to_game/connect_to_game.html?' + $.param(params);
   }
 
   var staticConnectButtons = servers.map(function(server) {
